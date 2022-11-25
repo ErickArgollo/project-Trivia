@@ -44,7 +44,7 @@ class Login extends React.Component {
         <S.formContainer>
           <S.formInputs
             type="text"
-            placeholder="Nome"
+            placeholder="Name"
             data-testid="input-player-name"
             maxLength="14"
             value={ name }

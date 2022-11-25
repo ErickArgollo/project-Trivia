@@ -45,7 +45,7 @@ class Header extends Component {
         </S.userInfosContainer>
         <S.playerScoreContainer>
           <S.star src={ Star } alt="" />
-          <p>Pontos:</p>
+          <p>Points:</p>
           <p data-testid="header-score">{player.score}</p>
         </S.playerScoreContainer>
         <S.buttonSettingsContainer>

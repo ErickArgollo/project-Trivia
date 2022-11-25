@@ -55,29 +55,29 @@ class Feedback extends React.Component {
                     data-testid="feedback-text"
                     style={ { color: 'rgba(234, 93, 93, 1)' } }
                   >
-                    PODIA SER MELHOR...
+                    COULD BE BETTER...
                   </h1>)
                 : (
                   <h1
                     data-testid="feedback-text"
                     style={ { color: '#2FC18C' } }
                   >
-                    MUITO BEM!
+                    GOOD JOB!!
                   </h1>)
             }
             <p data-testid="feedback-total-score">
-              Você acertou
+              You got
               {' '}
               {assertions}
               {' '}
-              questões!
+              questions!
             </p>
             <p data-testid="feedback-total-question">
-              Um total de
+              Your total was
               {' '}
               {score}
               {' '}
-              pontos.
+              points.
             </p>
           </S.infos>
         </S.feedBackContainer>
@@ -87,14 +87,14 @@ class Feedback extends React.Component {
             data-testid="btn-play-again"
             onClick={ this.playAgain }
           >
-            JOGAR NOVAMENTE
+            PLAY AGAIN
           </S.playAgainBtn>
           <S.rankingBtn
             type="button"
             data-testid="btn-ranking"
             onClick={ () => history.push('/ranking') }
           >
-            VER RANKING
+            RANKING
           </S.rankingBtn>
         </S.buttonsContainer>
       </S.feedBackPage>
