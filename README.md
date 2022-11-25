@@ -5,7 +5,7 @@
 
 ### Projeto realizado em grupo com os seguintes colegas:
 <b> <a href="https://www.linkedin.com/in/roger-marques-dev/"> Roger Marques</a> </b> <br>
-Matheus Paiva <br>
+<b> <a href="https://www.linkedin.com/in/matheus-paiva-13710686/"> Matheus Paiva</a> </b> <br>
 Miguel Augusto
 
 </p>
