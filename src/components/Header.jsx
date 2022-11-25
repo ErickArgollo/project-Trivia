@@ -32,6 +32,9 @@ class Header extends Component {
   render() {
     const { player, history } = this.props;
     const { src } = this.state;
+    if(!player.name){
+      history.push('/')
+    }
     return (
       <S.headerContainer>
         <S.logo src={ logo } alt="" />
