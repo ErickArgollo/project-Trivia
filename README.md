@@ -4,7 +4,7 @@
 #### <p>Esse projeto tem como objetivo desenvolver um jogo de perguntas e respostas baseado no jogo Trivia (tipo um show do milhão) utilizando React e Redux, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban. Aproveitamos também para aprender uma nova ferramenta e utilizamos o styled component para o css do nosso projeto.
 
 ### Projeto realizado em grupo com os seguintes colegas:
-<b> <a href="https://www.linkedin.com/in/roger-marques-dev/"> Roger Marques</a> </b> <br>
+<b> <a href="https://www.linkedin.com/in/roger-marques-dev/"> Roger Marques</a></b> <br>
 <b> <a href="https://www.linkedin.com/in/matheus-paiva-13710686/"> Matheus Paiva</a> </b> <br>
 Miguel Augusto
 
