@@ -1,7 +1,7 @@
 # Seja muito bem-vindo(a) ao meu projeto Trivia! :rocket:
 ![bem-vindo(a)](https://github.com/ErickArgollo/project-Trivia/blob/main/69jg.gif)
 
-#### <p>Esse projeto tem como objetivo desenvolver um jogo de perguntas e respostas baseado no jogo Trivia (tipo um show do milhão) utilizando React e Redux, desenvolvendo em grupo suas funcionalidades de acordo com as demandas definidas em um quadro Kanban. Aproveitamos também para aprender uma nova ferramenta e utilizamos o styled component para o css do nosso projeto.
+#### <p>Este projeto que desenvolvi com meu grupo teve como objetivo criar um jogo de perguntas e respostas inspirado no famoso Trivia. Utilizamos tecnologias como React e Redux para implementar as funcionalidades que definimos em um quadro Kanban. Durante o projeto, também tivemos a oportunidade de aprender uma nova ferramenta e aplicamos o styled components para estilização do nosso jogo, deixando-o ainda mais atraente para os jogadores. Foi uma experiência incrível trabalhar em equipe e desenvolver um projeto divertido e desafiador!
 
 ### Projeto realizado em grupo com os seguintes colegas:
 <b> <a href="https://www.linkedin.com/in/roger-marques-dev/"> Roger Marques</a></b> <br>
@@ -18,11 +18,11 @@ Miguel Augusto
 
 ## Objetivos
   * Desenvolver uma aplicação utilizando react/redux.
-  * Logar no jogo e, se o email tiver cadastro no site <a href="https://pt.gravatar.com/">Gravatar</a>, ter sua foto associada ao perfil da pessoa usuária.
-  * Acessar a página referente ao jogo, onde se deverá escolher uma das respostas disponíveis para cada uma das perguntas apresentadas. A resposta deve ser marcada antes do contador de tempo chegar a zero, caso contrário a resposta deverá ser considerada errada. 
-  * Ser redirecionada, após 5 perguntas respondidas, para a tela de score, onde o texto mostrado depende do número de acertos.
-  * Visualizar a página de ranking, se quiser, ao final de cada jogo.
-  * Bônus: Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
+  * Permitir o login no jogo e, caso o email esteja cadastrado no site Gravatar, ter a foto do usuário associada ao seu perfil.
+  * Acessar a página do jogo, onde o jogador deve escolher uma das respostas disponíveis para cada pergunta apresentada. A resposta deve ser selecionada antes que o contador de tempo chegue a zero, caso contrário a resposta será considerada errada.
+  * Ao responder 5 perguntas, o jogador será redirecionado para a tela de pontuação, onde o texto mostrado dependerá do número de respostas corretas.
+  * O jogador pode visualizar a página de ranking ao final do jogo, se desejar.
+  * Como bônus, é possível configurar algumas opções do jogo em uma tela de configuração acessível a partir do cabeçalho do aplicativo.
 
 ## Tecnologias/Ferramentas usadas
   * HTML
